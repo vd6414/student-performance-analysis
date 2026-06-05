@@ -63,6 +63,18 @@ The dataset contains information of 30 students with the following columns:
 
 ---
 
+## Sample Visualizations
+
+### Bar Chart
+![Bar Chart](<img width="658" height="707" alt="Screenshot 2026-06-05 085620" src="https://github.com/user-attachments/assets/534acc78-922a-4473-ba6a-5485be64e1d3" />
+)
+
+### Scatter Plot
+![Scatter Plot](<img width="641" height="598" alt="Screenshot 2026-06-05 090324" src="https://github.com/user-attachments/assets/c0bccb51-b7b1-4a17-80b8-b1db313045c1" />
+)
+
+
+---
 ## Key Insights
 1. Students scored highest in English.
 2. Higher attendance leads to better marks.
